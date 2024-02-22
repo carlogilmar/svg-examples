@@ -1,6 +1,10 @@
 # SVG 🤝 Markdown
 
 <div style="width: 100%;">
+  <embed src="text.svg?param=hagamos%20cosas%20chingonas" type="image/svg+xml" />
+</div>
+
+<div style="width: 100%;">
   <img src="astronaut.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
